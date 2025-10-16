@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ApiSimpsons">
         <activity
-            android:name=".features.presentation.MainActivity"
+            android:name=".features.presentation.SimpsonListActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
